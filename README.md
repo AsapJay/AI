@@ -1,2 +1,2 @@
 # AI
-created a tic-tac-toe game to implement minimax algorithm and minimax with alpha-beta pruning optimization
+created a tic-tac-toe game to implement ai algorithms. Implemented minimax algorithm and minimax with alpha-beta pruning optimization
